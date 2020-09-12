@@ -2,7 +2,7 @@ body {
   background-image: url("https://cdn.goskills.com/blobs/blogs/154/63.png");
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1 {
@@ -15,10 +15,32 @@ h1 {
 
 ul {
   font-size: 16px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
 .top-bar {
-  background-color: lightgray;
+  background-color: rgb(199, 196, 196);
+  font-size: large;
 }
+
+.name {
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn:hover {
+  color: lightblue;
+}
+
+.btn {
+  background-color: gray;
+  color: black;
+  font-size: medium;
+}
+
+a:active {
+  color: red;
+}
+
