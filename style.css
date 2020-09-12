@@ -1,3 +1,24 @@
 body {
-  background-image: url('assets\picture.jpg');
+  background-image: url("https://cdn.goskills.com/blobs/blogs/154/63.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.material-icons { 
+  vertical-align: middle;
+}
+
+ul {
+  font-size: 16px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.top-bar {
+  background-color: lightgray;
 }
