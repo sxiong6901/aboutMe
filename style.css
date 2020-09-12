@@ -2,6 +2,7 @@ body {
   background-image: url("https://cdn.goskills.com/blobs/blogs/154/63.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
